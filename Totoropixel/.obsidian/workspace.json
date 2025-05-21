@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "9163bd0888cf9209",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb584ca5bef13221",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f98b54bed889c2a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2371d02ecaed4e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0a14f41dc4eabff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01d7985779581362",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "049bb1215dd0e589",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "146166c1d428f93e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3d429eb96d88dc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8652d396a0a3c40f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ce2dbfdd6c12e08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bb81e3b37333cfac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2eb1befedff3b5b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "138109e770c7f329",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "01d7985779581362",
+  "lastOpenFiles": [
+    "Projectos-terminados/Motoparts/MAES - Index Motoparts.md",
+    "Projectos-terminados/Motoparts/Análisis inicial OldVerstion.md",
+    "Projectos-terminados/Motoparts/🧠 Análisis Inicial.md",
+    "Projectos-terminados/Motoparts/Motoparts/MAES - Index Motoparts.md",
+    "Projectos-terminados/Motoparts/Motoparts/Análisis inicial OldVerstion.md",
+    "Projectos-terminados/Motoparts/Motoparts/🧠 Análisis Inicial.md",
+    "Projectos-terminados/Motoparts/MAES/MAES - Index Motoparts.md",
+    "Projectos-terminados/Motoparts/MAES/Análisis inicial OldVerstion.md",
+    "Projectos-terminados/Motoparts/MAES/🧠 Análisis Inicial.md",
+    "Projectos-terminados/Motoparts/MAES/Objetivos SEO y audiencia objetivo - motoparts.md",
+    "Projectos-terminados/Motoparts/MAES/Kick-off - motoparts.md",
+    "Projectos-terminados/Motoparts/MAES/Keyword Match.md",
+    "Projectos-terminados/Motoparts/MAES/Análisis de la competencia - motoparts.md",
+    "Projectos-terminados/Motoparts/MAES",
+    "Projectos-terminados/MAES/Objetivos SEO y audiencia objetivo - motoparts.md",
+    "Projectos-terminados/MAES/Kick-off - motoparts.md",
+    "Projectos-terminados/MAES/Keyword Match.md",
+    "Projectos-terminados/MAES/Análisis de la competencia - motoparts.md",
+    "Projectos-terminados/MAES",
+    "Projectos-terminados/Motoparts/Motoparts/MAES/Objetivos SEO y audiencia objetivo - motoparts.md",
+    "Projectos-terminados/Motoparts/Motoparts/MAES/Kick-off - motoparts.md",
+    "Projectos-terminados/Motoparts/Motoparts/MAES/Keyword Match.md",
+    "Projectos-terminados/Motoparts/Motoparts/MAES/Análisis de la competencia - motoparts.md",
+    "Projectos-terminados/Motoparts/Motoparts/MAES",
+    "Projectos-terminados/Motoparts/Motoparts",
+    "Projectos-terminados/Motoparts",
+    "Projectos-terminados",
+    "Welcome.md"
+  ]
+}
