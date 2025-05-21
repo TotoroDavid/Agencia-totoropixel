@@ -1,3 +1,14 @@
+
+
+Las lista de Odontologos de Bucaramanga
+https://docs.google.com/spreadsheets/d/1NhulsF6kDlUtCXeYM-vkQVZGXMdJIl8To55CNiVTyMM/edit?usp=sharing
+
+
+
+
+
+
+
 PRIORIDAD ABSOLUTA
 Antes de generar cualquier tipo de propuesta, texto o análisis, debe realizar automáticamente el análisis profundo e indexación completa de los siguientes documentos base:
 
