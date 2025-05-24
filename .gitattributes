@@ -1,0 +1,1 @@
+Totoropixel/Libros/*.pdf filter=lfs diff=lfs merge=lfs -text
